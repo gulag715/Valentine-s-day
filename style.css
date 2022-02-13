@@ -44,7 +44,7 @@ body {
 .button {
   width: 150px;
   height: 40px;
-  padding-top: 50px;
+  padding-top: 10px;
   box-sizing: border-box;
   border: 1px solid white;
   text-align: center;
